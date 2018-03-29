@@ -1,0 +1,127 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin: 0 auto;
+}
+.main {
+    width: 80%;
+    height: 90%;
+    background-color: rgb(179, 174, 174);
+    border: 1px solid rgb(128, 128, 128);
+}
+h1 {
+    font-size: 15px;
+    margin: 0 0 0 5px;
+}
+h2 {
+    margin: 0 0 0 5px;
+}
+footer {
+    text-align: center;
+}
+p {
+    margin: 5px 5px 5px 5px;
+    font-size: 19px;
+}
+.mainpicture {
+    width: 720px;
+    height: 388px;
+    float: middle;
+    margin: 5px 5px 5px 5px;
+}
+header {
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(179, 174, 174);
+    width: 80%;
+    height: 90%;
+}
+aside {
+    border: 2px solid rgb(24, 32, 29);
+    background-color: rgb(39, 61, 54);
+    text-align: center;
+}
+div {
+    border-top-style: solid 1px;
+}
+.spicture {
+    width: 450px;
+    height: 300px;
+    float: right;
+}
+body {
+    background-image: url(img/Imperial_Venator.jpg);
+}
+a:link, a:active {
+    color:#028fd1;
+    font-weight:bold
+    }
+    a:hover {
+    color:#0379af;
+    font-weight:bold;
+    }
+a {
+    font-size: 16px;
+    margin: 0 5px 0 5px;
+}
+
+.spicture {
+    width: 566px;
+    height: 353px;
+    margin: 5px 5px 5px 5px; 
+}
+.six-wing {
+    float: right;
+    margin: 5px 5px 5px 5px;
+}
+.interceptor {
+    width: 432px;
+    height: 264px;
+    float: left;
+    margin: 5px 5px 5px 5px;
+}
+.thpicture {
+    width: 350px;
+    height: 200px;
+    float: right;
+    margin: 5px 5px 5px 5px;
+}
+.fpicture {
+    width: 360px;
+    height: 160px;
+    float: right;
+    margin: 5px 5px 5px 5px;
+}
+.victory {
+    width: 150px;
+    height: 120px;
+    float: left;
+    margin: 5px 5px 5px 5px;
+}
+.literature {
+    text-align: left;
+}
+p {
+    text-indent: 20px;
+}
+.ypicture {
+    width: 50px;
+    height: 50px;
+    margin: 5px 5px 5px 5px;
+    /* text-align: left; */
+}
+strong {
+    font-size: 16px;
+}
+.gpicture {
+    width: 75px;
+    height: 45px;
+    float: right;
+    margin: 5px 5px 5px 5px;
+}
+u {
+    font-size: 19px;
+}
+abbr {
+    font-size: 19px;
+}
